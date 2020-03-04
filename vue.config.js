@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: '/micro-calc'
+  publicPath: '/micro-calc',
+  outputDir: '/docs'
 }
